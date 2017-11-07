@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SimpleHttpClient", "Simp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BadUrl", "BadUrl\02.BadUrl.csproj", "{8281617B-F65E-47A3-A159-35AB9B6F57A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GetMethod", "GetMethod\03.GetMethod.csproj", "{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8281617B-F65E-47A3-A159-35AB9B6F57A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8281617B-F65E-47A3-A159-35AB9B6F57A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8281617B-F65E-47A3-A159-35AB9B6F57A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
