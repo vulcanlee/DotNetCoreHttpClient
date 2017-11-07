@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BadUrl", "BadUrl\02.BadU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GetMethod", "GetMethod\03.GetMethod.csproj", "{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GetQueryStringMethod", "GetQueryStringMethod\04.GetQueryStringMethod.csproj", "{1C32E8F8-01D3-4068-8F53-AD4FA27FFDE3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C32E8F8-01D3-4068-8F53-AD4FA27FFDE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C32E8F8-01D3-4068-8F53-AD4FA27FFDE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C32E8F8-01D3-4068-8F53-AD4FA27FFDE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C32E8F8-01D3-4068-8F53-AD4FA27FFDE3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
