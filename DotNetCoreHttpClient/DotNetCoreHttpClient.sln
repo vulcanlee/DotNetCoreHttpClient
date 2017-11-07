@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MultiPartPost", "MultiPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.JsonPost", "JsonPost\07.JsonPost.csproj", "{61744C23-0939-4AD3-8D6C-593C3E6FC171}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.JsonPut", "JsonPut\08.JsonPut.csproj", "{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{61744C23-0939-4AD3-8D6C-593C3E6FC171}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61744C23-0939-4AD3-8D6C-593C3E6FC171}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61744C23-0939-4AD3-8D6C-593C3E6FC171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
