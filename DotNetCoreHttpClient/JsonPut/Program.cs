@@ -19,7 +19,7 @@ namespace JsonPut
                 Id = 777,
                 Name = "VulcanSource",
             };
-            var foo = JsonPutAsync(fooAPIData).Result;
+            var foo = await JsonPutAsync(fooAPIData);
             Console.WriteLine($"使用 JSON 格式與使用 Put 方法呼叫 Web API 的結果");
             Console.WriteLine($"結果狀態 : {foo.Success}");
             Console.WriteLine($"結果訊息 : {foo.Message}");
@@ -36,7 +36,7 @@ namespace JsonPut
                 Id = 123,
                 Name = "VulcanSource",
             };
-            foo = JsonPutAsync(fooAPIData).Result;
+            foo = await JsonPutAsync(fooAPIData);
             Console.WriteLine($"使用 JSON 格式與使用 Put 方法呼叫 Web API 的結果");
             Console.WriteLine($"結果狀態 : {foo.Success}");
             Console.WriteLine($"結果訊息 : {foo.Message}");
