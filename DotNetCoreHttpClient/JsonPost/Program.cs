@@ -12,7 +12,7 @@ namespace JsonPost
     {
         static async Task Main(string[] args)
         {
-            #region 
+            #region 使用 JSON 格式與使用 Post 方法呼叫 Web API 的結果
             #region 呼叫 Web API 得到成功的結果
             var fooAPIData = new APIData()
             {
