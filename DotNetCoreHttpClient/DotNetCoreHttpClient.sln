@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GetQueryStringMethod", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FormDataPost", "FormDataPost\05.FormDataPost.csproj", "{BB821B0C-4155-45D2-9A29-BB2114E836E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MultiPartPost", "MultiPartPost\06.MultiPartPost.csproj", "{AE1847A6-C6E0-499B-9ADF-62E8EC421457}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BB821B0C-4155-45D2-9A29-BB2114E836E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB821B0C-4155-45D2-9A29-BB2114E836E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB821B0C-4155-45D2-9A29-BB2114E836E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE1847A6-C6E0-499B-9ADF-62E8EC421457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE1847A6-C6E0-499B-9ADF-62E8EC421457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE1847A6-C6E0-499B-9ADF-62E8EC421457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE1847A6-C6E0-499B-9ADF-62E8EC421457}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
