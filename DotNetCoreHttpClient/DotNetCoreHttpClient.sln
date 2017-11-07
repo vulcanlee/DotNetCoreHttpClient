@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.JsonPost", "JsonPost\07.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.JsonPut", "JsonPut\08.JsonPut.csproj", "{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.DeleteIt", "DeleteIt\09.DeleteIt.csproj", "{FE77651D-E442-45AB-AB33-00D961C009F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE77651D-E442-45AB-AB33-00D961C009F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE77651D-E442-45AB-AB33-00D961C009F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE77651D-E442-45AB-AB33-00D961C009F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE77651D-E442-45AB-AB33-00D961C009F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
