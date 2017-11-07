@@ -12,14 +12,14 @@
 |06.MultiPartPost|POST 要求與 multipart/form-data MIME 類型編碼|
 |07.JsonPost|POST 要求與 JSON 編碼內容 |
 |08.JsonPut|PUT 要求與 JSON 編碼內容 |
-|09DeleteIt|DELETE 要求與查詢字串 |
-|10PostHeader|POST 要求與使用 Header 進行傳送與接收|
-|11CookiePost|POST 要求與使用 Cookie 進行傳送與接收 |
-|12DownloadImage|下載圖片檔案到本機儲存空間內|
-|13UploadFile|上傳本機圖片檔案到遠端伺服器上|
-|13UploadFileAndData|上傳本機文字檔案與相關欄位值到遠端伺服器上|
-|14LongTimeAccess|呼叫 Web API 的逾時時間限制用法|
-|15DownloadProgress|處理進度事件回報與強制取消用法|
-|16GetException|用戶端遇到伺服器例外異常處理用法|
-|17MsgHandler|自訂Http訊息處理器 Message Handler|
-|17ProgressHandler|訂閱請求與回應的資料傳輸事件|
+|09.DeleteIt|DELETE 要求與查詢字串 |
+|10.PostHeader|POST 要求與使用 Header 進行傳送與接收|
+|11.CookiePost|POST 要求與使用 Cookie 進行傳送與接收 |
+|12.DownloadImage|下載圖片檔案到本機儲存空間內|
+|13.UploadFile|上傳本機圖片檔案到遠端伺服器上|
+|13.UploadFileAndData|上傳本機文字檔案與相關欄位值到遠端伺服器上|
+|14.LongTimeAccess|呼叫 Web API 的逾時時間限制用法|
+|15.DownloadProgress|處理進度事件回報與強制取消用法|
+|16.GetException|用戶端遇到伺服器例外異常處理用法|
+|17.MsgHandler|自訂Http訊息處理器 Message Handler|
+|17.ProgressHandler|訂閱請求與回應的資料傳輸事件|
