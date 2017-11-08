@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.DownloadImage", "Downloa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.UploadFile", "UploadFile\13.UploadFile.csproj", "{6991FFC4-147E-4260-B601-D0E1CB6BDCBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.UploadFileAndData", "UploadFileAndData\13.UploadFileAndData.csproj", "{19D9E7C4-C343-436F-84DC-C35D7B565060}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6991FFC4-147E-4260-B601-D0E1CB6BDCBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6991FFC4-147E-4260-B601-D0E1CB6BDCBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6991FFC4-147E-4260-B601-D0E1CB6BDCBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19D9E7C4-C343-436F-84DC-C35D7B565060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19D9E7C4-C343-436F-84DC-C35D7B565060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19D9E7C4-C343-436F-84DC-C35D7B565060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19D9E7C4-C343-436F-84DC-C35D7B565060}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
