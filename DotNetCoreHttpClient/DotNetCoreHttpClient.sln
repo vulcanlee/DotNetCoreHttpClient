@@ -7,27 +7,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel", "DataModel\Data
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VulcanWebAPI", "VulcanWebAPI\VulcanWebAPI.csproj", "{3D674FA0-5EDA-4D35-A01C-5A2549282744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.SimpleHttpClient", "SimpleHttpClient\02.SimpleHttpClient.csproj", "{5FB63708-B1E0-4330-95B9-61EFEAC820DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.SimpleHttpClient", "SimpleHttpClient\02.SimpleHttpClient.csproj", "{5FB63708-B1E0-4330-95B9-61EFEAC820DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BadUrl", "BadUrl\02.BadUrl.csproj", "{8281617B-F65E-47A3-A159-35AB9B6F57A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BadUrl", "BadUrl\02.BadUrl.csproj", "{8281617B-F65E-47A3-A159-35AB9B6F57A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.GetMethod", "GetMethod\03.GetMethod.csproj", "{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.GetMethod", "GetMethod\03.GetMethod.csproj", "{C0C0D907-C496-4C4C-B201-FDBAC35FADFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.GetQueryStringMethod", "GetQueryStringMethod\04.GetQueryStringMethod.csproj", "{1C32E8F8-01D3-4068-8F53-AD4FA27FFDE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.GetQueryStringMethod", "GetQueryStringMethod\04.GetQueryStringMethod.csproj", "{1C32E8F8-01D3-4068-8F53-AD4FA27FFDE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.FormDataPost", "FormDataPost\05.FormDataPost.csproj", "{BB821B0C-4155-45D2-9A29-BB2114E836E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.FormDataPost", "FormDataPost\05.FormDataPost.csproj", "{BB821B0C-4155-45D2-9A29-BB2114E836E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.MultiPartPost", "MultiPartPost\06.MultiPartPost.csproj", "{AE1847A6-C6E0-499B-9ADF-62E8EC421457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.MultiPartPost", "MultiPartPost\06.MultiPartPost.csproj", "{AE1847A6-C6E0-499B-9ADF-62E8EC421457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.JsonPost", "JsonPost\07.JsonPost.csproj", "{61744C23-0939-4AD3-8D6C-593C3E6FC171}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.JsonPost", "JsonPost\07.JsonPost.csproj", "{61744C23-0939-4AD3-8D6C-593C3E6FC171}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.JsonPut", "JsonPut\08.JsonPut.csproj", "{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.JsonPut", "JsonPut\08.JsonPut.csproj", "{84BFA2DB-06F6-4F56-B0C4-1054199E6C22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.DeleteIt", "DeleteIt\09.DeleteIt.csproj", "{FE77651D-E442-45AB-AB33-00D961C009F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.DeleteIt", "DeleteIt\09.DeleteIt.csproj", "{FE77651D-E442-45AB-AB33-00D961C009F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PostHeader", "PostHeader\10.PostHeader.csproj", "{C1476523-CAB8-441E-85BF-5D7EE49DA475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.PostHeader", "PostHeader\10.PostHeader.csproj", "{C1476523-CAB8-441E-85BF-5D7EE49DA475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.CookiePost", "CookiePost\11.CookiePost.csproj", "{26AF04FF-995C-4460-A1FF-C321F5FC71B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.CookiePost", "CookiePost\11.CookiePost.csproj", "{26AF04FF-995C-4460-A1FF-C321F5FC71B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.DownloadImage", "DownloadImage\12.DownloadImage.csproj", "{06EDA7D4-F93B-4A7D-8E51-DD07C321372C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{26AF04FF-995C-4460-A1FF-C321F5FC71B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26AF04FF-995C-4460-A1FF-C321F5FC71B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26AF04FF-995C-4460-A1FF-C321F5FC71B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EDA7D4-F93B-4A7D-8E51-DD07C321372C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EDA7D4-F93B-4A7D-8E51-DD07C321372C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EDA7D4-F93B-4A7D-8E51-DD07C321372C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EDA7D4-F93B-4A7D-8E51-DD07C321372C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
