@@ -1,6 +1,8 @@
-# C# 開發實戰：HttpClient
+# C# 開發實戰：HttpClient 課程專案練習原始碼
 
 這裡將會是包含 C# 開發實戰：HttpClient 所有的實作練習的原始碼
+
+所有的程式碼都是使用 .NET Core 來進行開發，而資料模型的類別庫，則是採用 .NET Standard 標準類別庫
 
 |專案名稱|專案說明|
 |-|-|
