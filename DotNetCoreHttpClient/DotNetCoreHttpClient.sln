@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.GetException", "GetExcep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.MsgHandler", "MsgHandler\17.MsgHandler.csproj", "{DDBD2B99-9F68-4490-ACDA-21D7F5FC5FF0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.ProgressHandler", "ProgressHandler\17.ProgressHandler.csproj", "{EBBE4038-8611-4BF9-A2D6-7856D329FBC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{DDBD2B99-9F68-4490-ACDA-21D7F5FC5FF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDBD2B99-9F68-4490-ACDA-21D7F5FC5FF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDBD2B99-9F68-4490-ACDA-21D7F5FC5FF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBBE4038-8611-4BF9-A2D6-7856D329FBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBE4038-8611-4BF9-A2D6-7856D329FBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBE4038-8611-4BF9-A2D6-7856D329FBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBE4038-8611-4BF9-A2D6-7856D329FBC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
